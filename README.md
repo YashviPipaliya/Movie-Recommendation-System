@@ -47,7 +47,7 @@ For the last type of recommendation system, we use clustering as well as count v
 
 ![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/Comparision.PNG)
 
-# Refrences 
+# References
 TF-IDF & Cosine Similarity
 
 https://monkeylearn.com/blog/what-is-tf-idf/
