@@ -51,11 +51,13 @@ For the last type of recommendation system, we use clustering as well as count v
 TF-IDF & Cosine Similarity
 
 https://monkeylearn.com/blog/what-is-tf-idf/
+
 https://janav.wordpress.com/2013/10/27/tf-idf-and-cosine-similarity/
 
 Feature Importance using Random Forest & KDE
 
 https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-rand
+
 https://scikit-learn.org/stable/modules/density.html
 
 CountVectorizer & KDE
@@ -65,6 +67,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.tex
 Netflix and imdb Dataset
 
 https://www.kaggle.com/shivamb/netflix-shows
+
 https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 
 EDA Analysis & Kaggle Tutorial
