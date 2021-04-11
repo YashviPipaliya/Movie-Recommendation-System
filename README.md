@@ -8,7 +8,7 @@ There are different filter-based approaches to building recommendation systems.W
 These systems are beneficial for organizations that collect data from large number of customers and who wish to effectively provide the best suggestions possible.
 
 # Exploratory Data Analysis
-![Count of movies VS TV-shows](../master/Results/EDA/Count of movies VS TV-shows.png)
+![Count of movies VS TV-shows](../master/Results/EDA/Count of movies VS TV-shows.PNG)
 ![Distribution of content uploaded](../master/Results/EDA/Distribution of content uploaded.png)
 ![Movie Rating Analysis](../master/Results/EDA/Movie Rating Analysis.png)
 ![Types of Genres](../master/Results/EDA/Types of Genres.png)
