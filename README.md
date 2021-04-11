@@ -42,3 +42,32 @@ For the third type of recommendation system, we first chose top 5 features: genr
 For the last type of recommendation system, we use clustering as well as count vectorization. Here, we take the clustered movie dataset obtained in the first type of recommendation system and then choose top 3 features which are genre, cast and description. As the features are selected, next step would be data prepossessing as we did in 3rd type of recommendation system. Next, we again create a new parameter "Bag Of Words" to combine all the three parameters. Now, using count vectorization and cosine similarity to compute sparse matrix which helps in defining a function to calculate the similarity score of input movie with other movies in the clusters. The function will return all the movies with similarity score greater than 0.12. Here, we need to keep the limiting similarity score very less as the number of parameters taken into consideration are more and the number of movies in the cluster with similarity score similar to the input movie's score is less due which a problem like over-fitting may occur. But keeping the similarity score very less may produce extraneous movies as well. Thus, the 4th recommendation system is not the most efficient system for recommending movies.
 
 ![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/Final%20Results/Model4%20Movie3.PNG)
+
+# Conclusion 
+
+
+
+# Refrences 
+TF-IDF & Cosine Similarity
+https://monkeylearn.com/blog/what-is-tf-idf/
+https://janav.wordpress.com/2013/10/27/tf-idf-and-cosine-similarity/
+
+Feature Importance using Random Forest & KDE
+https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-rand
+https://scikit-learn.org/stable/modules/density.html
+
+CountVectorizer & KDE
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
+
+Netflix and imdb Dataset
+https://www.kaggle.com/shivamb/netflix-shows
+https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+
+EDA Analysis & Kaggle Tutorial
+https://www.datacamp.com/community/tutorials/kaggle-machine-learning-eda
+
+
+
+
+
+
