@@ -8,17 +8,18 @@ There are different filter-based approaches to building recommendation systems.W
 These systems are beneficial for organizations that collect data from large number of customers and who wish to effectively provide the best suggestions possible.
 
 # Exploratory Data Analysis
-![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Count%20of%20movies%20VS%20TV-shows.PNG)
 Count of movies VS TV-shows
+![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Count%20of%20movies%20VS%20TV-shows.PNG)
 
-(https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Distribution%20of%20content%20uploaded.PNG)
 Distribution of content uploaded
+![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Distribution%20of%20content%20uploaded.PNG)
 
-(https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Movie%20Rating%20Analysis.PNG)
 Movie Rating Analysis
+![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Movie%20Rating%20Analysis.PNG)
 
-(https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Types%20of%20Genres.PNG)
 Types of Genres
+![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Types%20of%20Genres.PNG)
+
 
 # Recommendation Model 1
 Using the feature importances calculated by Drop column feature importance, we computed a score by multiplying the respective feature importance values with the features and then summed up the products. Thus we now have a parameter score for every movie in the dataset. Next, we plot the distribution of score and then apply Kernel Density Estimation from the range of the peak from the plot, that is, -1050 to 10,000.
