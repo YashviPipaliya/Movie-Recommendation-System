@@ -8,8 +8,8 @@ There are different filter-based approaches to building recommendation systems.W
 These systems are beneficial for organizations that collect data from large number of customers and who wish to effectively provide the best suggestions possible.
 
 # Exploratory Data Analysis
-Count of movies VS TV-shows
-![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Count%20of%20movies%20VS%20TV-shows.PNG)
+
+![Count of movies VS TV-shows](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Count%20of%20movies%20VS%20TV-shows.PNG)
 
 Distribution of content uploaded
 ![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Distribution%20of%20content%20uploaded.PNG)
